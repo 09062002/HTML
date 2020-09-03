@@ -1,0 +1,26 @@
+*/ CSS*/
+p {
+    color: blue;
+    font-family: Verdana;
+    font-size: 5pt;
+}
+
+#topzera{
+    color: green;
+}
+
+#hps{
+    color: blue
+}
+
+.sm{
+    font-family: verdana;
+}
+
+.fundoLoki{
+    background-color: bisque;
+    border: 4px dashed black;
+    border-top-style: double ;
+    border-top-color: blue;
+    /* box-shadow: 5px 10px; */
+}
